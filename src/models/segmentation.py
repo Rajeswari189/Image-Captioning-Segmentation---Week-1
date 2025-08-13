@@ -1,5 +1,3 @@
-# src/models/segmentation.py
-# Updated: 2025-08-13
 
 import torch
 import torchvision
