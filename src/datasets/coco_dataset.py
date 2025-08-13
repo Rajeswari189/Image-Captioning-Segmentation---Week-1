@@ -1,5 +1,3 @@
-# Generated: 2025-08-13
-# File: src/datasets/coco_dataset.py
 
 import os
 from typing import Any, Dict, List, Tuple, Optional
