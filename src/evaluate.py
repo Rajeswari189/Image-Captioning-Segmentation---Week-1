@@ -1,5 +1,3 @@
-# Generated: 2025-08-13
-# File: src/evaluate.py
 
 from typing import List
 from nltk.translate.bleu_score import corpus_bleu, SmoothingFunction
