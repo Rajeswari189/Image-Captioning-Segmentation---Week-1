@@ -1,5 +1,3 @@
-# src/models/captioning.py
-# Updated: 2025-08-13
 
 import torch
 from PIL import Image
