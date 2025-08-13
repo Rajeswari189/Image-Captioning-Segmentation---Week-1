@@ -1,5 +1,4 @@
-# Generated: 2025-08-13
-# File: src/integrate.py
+
 
 import argparse, os, glob
 from PIL import Image
