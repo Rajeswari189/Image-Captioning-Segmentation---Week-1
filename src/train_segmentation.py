@@ -1,5 +1,4 @@
-# Generated: 2025-08-13
-# File: src/train_segmentation.py
+
 # WARNING: Real training needs hours and a strong GPU; this is a tiny reference loop.
 
 import argparse, os, math
