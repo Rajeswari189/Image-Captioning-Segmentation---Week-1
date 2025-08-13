@@ -1,5 +1,4 @@
-# Generated: 2025-08-13
-# File: src/train_caption.py
+
 # NOTE: Training large models needs a GPU and time; this is a compact template.
 
 import argparse, os, json, math
