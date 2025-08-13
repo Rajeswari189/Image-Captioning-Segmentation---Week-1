@@ -1,8 +1,7 @@
-# File: main.py
-# Updated: 2025-08-13
+
 """
 Main launcher for the Image Captioning + Segmentation project.
-Runs the Streamlit app with correct settings.
+Runs the Streamlit app 
 """
 
 import os
@@ -33,11 +32,11 @@ def main():
     app_path = os.path.join(project_root, "app", "streamlit_app.py")
 
     if not os.path.exists(app_path):
-        print(f"❌ ERROR: Streamlit app not found at {app_path}")
+        print(f" ERROR: Streamlit app not found at {app_path}")
         sys.exit(1)
 
-    print("\n🚀 Starting Streamlit app...")
-    print("📌 Usage:")
+    print("\n Starting Streamlit app...")
+    print(" Usage:")
     print("   Local:     Open http://localhost:8501 after running this")
     print("   Codespaces:")
     print("      1. Make port 8501 Public in Ports tab")
