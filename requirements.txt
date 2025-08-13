@@ -1,0 +1,12 @@
+torch>=2.1
+torchvision>=0.16
+transformers>=4.40.0
+accelerate
+pycocotools
+opencv-python
+Pillow
+numpy
+nltk
+streamlit
+tqdm
+scikit-learn
